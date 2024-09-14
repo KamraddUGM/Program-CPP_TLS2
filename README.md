@@ -40,8 +40,6 @@ Program ini merupakan implementasi sederhana untuk melakukan enkripsi dan dekrip
 ## Struktur Repository
 - **main.cpp**: File utama yang berisi kode sumber program.
 - **README.md**: Deskripsi dan panduan penggunaan program.
-- **input.txt**: File contoh yang dapat digunakan sebagai input.
-- **output.txt**: File hasil enkripsi atau dekripsi.
 
 ## Kontributor
 - Gede Kertya Pramana
